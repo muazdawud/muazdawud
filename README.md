@@ -25,7 +25,7 @@ I am a programmer and engineering student focused on the low-level architecture 
 
 ## Current Research & Projects
 
-### 🎼 [Serial Organ Control System](https://github.com/muazdawud/Low_level_C-Cpp/tree/mine/Serial_Music)
+### [Serial Organ Control System](https://github.com/muazdawud/Low_level_C-Cpp/tree/mine/Serial_Music)
 A bare-metal C implementation for AVR that transforms a PC keyboard into a musical instrument.
 * Uses a custom `scaleGenerator.cpp` to calculate timer constants.
 * Features real-time UART interaction via TeraTerm.
@@ -44,7 +44,7 @@ A lightweight web interface for remote hardware control.
 * **Storage:** Leverages **LittleFS** for flash memory management.
 * **Scalability:** Integrated **Over-The-Air (OTA)** updates for remote firmware deployment without physical access.
 
-### [Arduino Projects]()
+### [Arduino Projects](https://github.com/muazdawud/Electronics-Journey)
 Check the repository Electronics-Journey (https://github.com/muazdawud/Electronics-Journey)
 
  
@@ -54,15 +54,15 @@ Check the repository Electronics-Journey (https://github.com/muazdawud/Electroni
 * **50+ Algorithms** solved on HackerRank, focusing on logic and time complexity.
 * **Full-Stack Embedded:** Developed ESP8266 web servers with OTA (Over-The-Air) update capabilities and LittleFS integration.
 * **OS Customization:** Optimized a legacy Acer Aspire One (2GB RAM) using a custom **Arch Linux + i3wm** build for high-performance development.
-* **Industry Experience:** Currently contributing to software solutions at **KibrisOrder Software Company (http://ss.kibrisorder.com)**.
+* **Industry Experience:** Currently contributing to software solutions at **[KibrisOrder Software Company](http://ss.kibrisorder.com)**.
 
 ---
 
 ## Connect with Me
-* **GitHub:** [@muazdawud] (https://github.com/muazdawud)
-* **Email:** Dauda Muazu Sulaiman (dmsulaiman001@gmail.com)
-* **LinkedIn:** Dauda Muazu Sulaiman (https://www.linkedin.com/in/dauda-mu-azu-sulaiman-766a4137b)
-* **YouTube:** [@electro247_0] (https://youtube.com/@electro247_0)
+* **GitHub:** [@muazdawud](https://github.com/muazdawud)
+* **Email:** [Dauda Muazu Sulaiman](dmsulaiman001@gmail.com)
+* **LinkedIn:** [Dauda Muazu Sulaiman](https://www.linkedin.com/in/dauda-mu-azu-sulaiman-766a4137b)
+* **YouTube:** [@electro247_0](https://youtube.com/@electro247_0)
 * **Interests:** Arch Linux ricing, Aviation Maintenance Engineering, and Applied Calculus.
 * **Status:** Open to collaboration on low-level C projects and control system design.
 
