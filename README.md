@@ -1,5 +1,6 @@
 # Dauda M. S. | Embedded Systems & Mechatronics
-**Mechatronics Engineering Student @ Bayero University Kano** *"Bridging the gap between mathematical theory and bare-metal execution."*
+**Mechatronics Engineering Student @ Bayero University Kano**
+*"Bridging the gap between mathematical theory and bare-metal execution."*
 
 ---
 
